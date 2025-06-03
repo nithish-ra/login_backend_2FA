@@ -4,7 +4,7 @@ A Java Spring Boot-based backend that handles **user registration and login** wi
 
 - ✅ Username/password authentication
 - 🔒 Password hashing using **BCrypt**
-- 📱 Two-Factor Authentication (2FA) via **OTP to mobile** (Twilio or equivalent)
+- 📱 Two-Factor Authentication (2FA) via **OTP to mobile** (Twilio)
 - 🗃️ PostgreSQL database integration
 
 ---
