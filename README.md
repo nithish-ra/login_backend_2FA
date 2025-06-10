@@ -64,7 +64,10 @@ mvn exec:java@run-login
 mvn exec:java@run-register
 
 psql -U postgres
+
 \c login_system
+
 select * from users;
+
 delete from users;
 
