@@ -57,9 +57,10 @@ twilio.account_sid=your_account_sid
 twilio.auth_token=your_auth_token
 twilio.phone_number=your_twilio_number
 
-## how to run 
+## How to run 
 
 mvn exec:java@run-login
+
 mvn exec:java@run-register
 
 psql -U postgres
